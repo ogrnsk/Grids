@@ -1,0 +1,7 @@
+name = "Grids"
+uuid = "c9bc7d6e-d077-40a2-b2b8-d15e349c929b"
+authors = ["test "]
+version = "0.1.0"
+
+[deps]
+Triangulate = "f7e6ffb2-c36d-4f8f-a77e-16e897189344"
